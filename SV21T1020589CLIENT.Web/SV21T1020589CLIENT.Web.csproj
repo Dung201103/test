@@ -1824,6 +1824,9 @@
   </ItemGroup>
 
   <ItemGroup>
+  <None Update="LiteCommerce.db">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </None>
     <None Include="wwwroot\themes\bower_components\bootstrap-colorpicker\dist\css\bootstrap-colorpicker.css.map" />
     <None Include="wwwroot\themes\bower_components\bootstrap-colorpicker\dist\css\bootstrap-colorpicker.min.css.map" />
     <None Include="wwwroot\themes\bower_components\bootstrap-colorpicker\dist\js\bootstrap-colorpicker.js" />
