@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: sv21t1020589client-web
-    env: dotnet
-    plan: free
-    buildCommand: dotnet publish -c Release -o out
-    entrypoint: dotnet SV21T1020589CLIENT.Web.dll
-    rootDir: SV21T1020589CLIENT.Web
