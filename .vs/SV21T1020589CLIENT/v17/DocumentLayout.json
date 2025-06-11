@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\DRA\\Downloads\\test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\out\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\out\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\out\\microsoft.data.sqlite.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\out\\microsoft.data.sqlite.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\out\\sv21t1020589client.businesslayers.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\out\\sv21t1020589client.businesslayers.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -198,8 +210,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 209,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Data.Sqlite.dll",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\out\\Microsoft.Data.Sqlite.dll",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\out\\Microsoft.Data.Sqlite.dll",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\out\\Microsoft.Data.Sqlite.dll",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\out\\Microsoft.Data.Sqlite.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-06-11T05:44:10.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SV21T1020589CLIENT.BusinessLayers.dll",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\out\\SV21T1020589CLIENT.BusinessLayers.dll",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\out\\SV21T1020589CLIENT.BusinessLayers.dll",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\out\\SV21T1020589CLIENT.BusinessLayers.dll",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\out\\SV21T1020589CLIENT.BusinessLayers.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2025-06-11T05:43:55.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\out\\appsettings.json",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\out\\appsettings.json",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\out\\appsettings.json",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\out\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T05:42:33.768Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -210,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Product\\Search.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Search.cshtml",
@@ -218,12 +265,11 @@
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Product\\Search.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T04:28:15.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T04:28:15.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Index.cshtml",
@@ -235,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
@@ -247,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CustomerAccountDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
@@ -259,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\appsettings.json",
@@ -272,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
@@ -284,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "IProductDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
@@ -296,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "ProductDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
@@ -308,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "OrderDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
@@ -320,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ProvinceDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
@@ -332,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ShipperDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
@@ -344,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SupplierDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
@@ -356,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "CategoryDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
@@ -368,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "_BaseDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
@@ -380,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "CommonDataservice.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
@@ -392,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
@@ -404,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "CustomerDataService.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
@@ -416,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "OrderDataService.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
@@ -428,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ProductDataService.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
@@ -440,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ICustomerDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
@@ -452,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "PaginationSearchResult.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Models\\PaginationSearchResult.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Models\\PaginationSearchResult.cs",
@@ -464,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\ProductController.cs",
@@ -476,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\HomeController.cs",
@@ -488,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "PaginationSearchInput.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Models\\PaginationSearchInput.cs",
@@ -500,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\CustomerController.cs",
@@ -512,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\AccountController.cs",
@@ -524,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "EditProfile.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Customer\\EditProfile.cshtml",
@@ -536,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Customer\\Login.cshtml",
@@ -548,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\OrderController.cs",
@@ -560,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DomainModels\\Category.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\Category.cs",
@@ -572,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Program.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Program.cs",
@@ -584,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "SV21T1020589CLIENT.BusinessLayers.csproj",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj",
@@ -596,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Constants.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DomainModels\\Constants.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\Constants.cs",
@@ -608,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "SV21T1020589CLIENT.DataLayers.csproj",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SV21T1020589CLIENT.DataLayers.csproj",
@@ -620,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "SV21T1020589CLIENT.DomainModels.csproj",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\SV21T1020589CLIENT.DomainModels.csproj",
@@ -632,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "ISimpleQueryDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ISimpleQueryDAL.cs",
@@ -644,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "IUserAccountDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IUserAccountDAL.cs",
@@ -656,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "noavatar.jpg - Bitmap [360x360, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\noavatar.jpg",
@@ -668,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "cp.jpg - Bitmap [1538x2048, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\wwwroot\\theme\\images\\cp.jpg",
@@ -680,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "UserAccount.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\UserAccount.cs",
@@ -692,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "ICommonDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ICommonDAL.cs",
@@ -704,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DomainModels\\Customer.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DomainModels\\Customer.cs",
@@ -716,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 47,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Shared\\_Layout.cshtml",
@@ -728,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 48,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Controllers\\CategoryController.cs",
@@ -740,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 46,
               "Title": "_Header.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Shared\\_Header.cshtml",
@@ -752,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Order\\Index.cshtml",
@@ -764,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 49,
               "Title": "ShoppingCart.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Order\\ShoppingCart.cshtml",

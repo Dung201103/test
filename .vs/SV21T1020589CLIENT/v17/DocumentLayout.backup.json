@@ -198,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 209,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -220,18 +220,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-11T04:28:15.806Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAACgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T14:22:17.242Z"
             },
             {
               "$type": "Document",
@@ -271,6 +259,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T03:39:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T14:22:17.242Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "IProductDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
@@ -292,19 +305,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T04:13:53.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T03:39:58.904Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -787,6 +787,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
