@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DRA\\Downloads\\test\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\views\\product\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.businesslayers\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5E96707-4B92-4BB8-8686-F12FE29086F1}|SV21T1020589CLIENT.BusinessLayers\\SV21T1020589CLIENT.BusinessLayers.csproj|solutionrelative:sv21t1020589client.businesslayers\\commondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|solutionrelative:sv21t1020589client.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61910F58-E882-4A35-A90B-88E4225376DB}|SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj|c:\\users\\dra\\downloads\\test\\sv21t1020589client.web\\models\\paginationsearchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,11 +198,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 209,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Search.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Product\\Search.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Search.cshtml",
@@ -214,42 +222,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderDAL.cs",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
-              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAswMgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T04:13:23.699Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAACgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T14:22:17.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Index.cshtml",
@@ -257,12 +231,11 @@
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAFQAAAAAAAAAAAAAAKAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-11T04:03:39.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T04:03:39.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
@@ -270,12 +243,11 @@
               "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Product\\Detail.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-05T04:57:59.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T04:57:59.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CustomerAccountDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\CustomerAccountDAL.cs",
@@ -287,7 +259,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T03:39:58.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SV21T1020589CLIENT.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCwAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T14:22:17.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IProductDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\IProductDAL.cs",
@@ -299,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ProductDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProductDAL.cs",
@@ -311,7 +308,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
+              "Title": "OrderDAL.cs",
+              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "RelativeToolTip": "SV21T1020589CLIENT.DataLayers\\SQLite\\OrderDAL.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T04:13:23.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProvinceDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ProvinceDAL.cs",
@@ -323,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ShipperDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\ShipperDAL.cs",
@@ -335,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SupplierDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\SupplierDAL.cs",
@@ -347,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CategoryDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\CategoryDAL.cs",
@@ -359,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_BaseDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\SQLite\\_BaseDAL.cs",
@@ -372,18 +381,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "SV21T1020589CLIENT.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\appsettings.json",
-              "RelativeToolTip": "SV21T1020589CLIENT.Web\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-07T03:39:58.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "CommonDataservice.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CommonDataservice.cs",
@@ -395,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\Configuration.cs",
@@ -407,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "CustomerDataService.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\CustomerDataService.cs",
@@ -419,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "OrderDataService.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\OrderDataService.cs",
@@ -431,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ProductDataService.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.BusinessLayers\\ProductDataService.cs",
@@ -443,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ICustomerDAL.cs",
               "DocumentMoniker": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
               "RelativeDocumentMoniker": "SV21T1020589CLIENT.DataLayers\\ICustomerDAL.cs",
@@ -790,6 +787,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         },
