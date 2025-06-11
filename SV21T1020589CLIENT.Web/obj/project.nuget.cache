@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "biXlR7ENmgY=",
+  "dgSpecHash": "6mTpkQAAdIE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DRA\\Downloads\\bai-thuc-tap\\bai-thuc-tap\\SV21T1020589CLIENT\\SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj",
+  "projectFilePath": "C:\\Users\\DRA\\Downloads\\test\\SV21T1020589CLIENT.Web\\SV21T1020589CLIENT.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DRA\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -11,7 +11,8 @@
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.bcl.cryptography\\8.0.0\\microsoft.bcl.cryptography.8.0.0.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.data.sqlclient\\6.0.2\\microsoft.data.sqlclient.6.0.2.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\6.0.2\\microsoft.data.sqlclient.sni.runtime.6.0.2.nupkg.sha512",
-    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.5\\microsoft.data.sqlite.core.9.0.5.nupkg.sha512",
+    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.data.sqlite\\9.0.6\\microsoft.data.sqlite.9.0.6.nupkg.sha512",
+    "C:\\Users\\DRA\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.6\\microsoft.data.sqlite.core.9.0.6.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.5\\microsoft.entityframeworkcore.9.0.5.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.5\\microsoft.entityframeworkcore.abstractions.9.0.5.nupkg.sha512",
     "C:\\Users\\DRA\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.5\\microsoft.entityframeworkcore.analyzers.9.0.5.nupkg.sha512",

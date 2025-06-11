@@ -13,22 +13,22 @@
 		overflow-y: auto;
 	}
 
-	.sidebar .list-unstyled li {
-		margin-bottom: 10px;
-		margin-left: 5px;
-	}
+		.sidebar .list-unstyled li {
+			margin-bottom: 10px;
+			margin-left: 5px;
+		}
 
-	.sidebar .list-unstyled li a {
-		text-decoration: none;
-		font-weight: 600;
-		margin-bottom: 10px;
-		color: #999999;
-	}
+			.sidebar .list-unstyled li a {
+				text-decoration: none;
+				font-weight: 600;
+				margin-bottom: 10px;
+				color: #999999;
+			}
 
-	.sidebar .list-unstyled li a:hover {
-		color: #000 !important;
-		text-decoration: underline;
-	}
+				.sidebar .list-unstyled li a:hover {
+					color: #000 !important;
+					text-decoration: underline;
+				}
 
 	.content {
 		margin-left: 230px;
@@ -36,32 +36,22 @@
 
 </style>
 
- <!-- Sidebar -->
+<!-- Sidebar -->
 <aside class="sidebar">
-    <ul class="list-unstyled">
+	<ul class="list-unstyled">
 		@foreach (var category in SV21T1020589CLIENT.BusinessLayers.CommonDataService.ListOffCategories())
 		{
 			<li><a href="#">@category.CategoryName</a></li>
 		}
-    </ul>
+	</ul>
 </aside>
 
 <!-- Sản Phẩm -->
 <section class="container mt-5">
 	<div class="d-flex justify-content-between align-items-center mb-4">
 		<h4 class="fw-bold text-center">TẤT CẢ SẢN PHẨM</h4>
-		@* <div class="select-container">
-			<select onchange="location = this.value;">
-				<option value="#" disabled selected>Sắp Xếp Theo</option>
-				<option value="productController?categoryID=${cID}&&priceS=ASC">Giá : Tăng Dần</option>
-				<option value="productController?categoryID=${cID}&&priceS=DESC">Giá : Giảm Dần</option>
-				<option value="productController?categoryID=${cID}&&nameS=ASC">Tên : A - Z</option>
-				<option value="productController?categoryID=${cID}&&nameS=DESC">Tên : Z - A</option>
-				<option value="productController?categoryID=${cID}&&dateS=ASC">Cũ Nhất</option>
-				<option value="productController?categoryID=${cID}&&dateS=DESC">Mới Nhất</option>
-			</select>
-		</div> *@
-	</div> 
+
+	</div>
 
 	<div class="d-flex justify-content-between align-items-center mb-4">
 		<!-- Form đầu vào tìm kiếm -->
@@ -70,7 +60,7 @@
 			<div class="row">
 				<div class="col-sm-3">
 					<label>Loại hàng:</label>
-					<select class="form-control" name="CategoryID">
+					<select class="form-control" name="CategoryID" value="@Model.CategoryID">
 						<option value="">-- Chọn loại hàng --</option>
 						@foreach (var category in SV21T1020589CLIENT.BusinessLayers.CommonDataService.ListOffCategories())
 						{
@@ -88,7 +78,7 @@
 
 				<div class="col-sm-3">
 					<label>Nhà cung cấp:</label>
-					<select class="form-control" name="SupplierID">
+					<select class="form-control" name="SupplierID" value="@Model.SupplierID">
 						<option value="">-- Chọn nhà cung cấp --</option>
 						@foreach (var supply in SV21T1020589CLIENT.BusinessLayers.CommonDataService.ListOffSuppliers())
 						{
@@ -104,14 +94,7 @@
 					</select>
 				</div>
 
-				<div class="col-sm-1">
-					<label>Giá từ:</label>
-					<input type="text" class="form-control number-separator" name="@nameof(Model.MinPrice)" value="@string.Format("{0:N0}", Model.MinPrice)">
-				</div>
-				<div class="col-sm-1">
-					<label>đến:</label>
-					<input type="text" class="form-control number-separator" name="@nameof(Model.MaxPrice)" value="@string.Format("{0:N0}", Model.MaxPrice)">
-				</div>
+
 
 				<div class="col-sm-4">
 					<label>Tên mặt hàng cần tìm:</label>
@@ -131,11 +114,11 @@
 			</div>
 		</form>
 	</div>
-	
+
 	<div id="searchResult">
 		<!-- Sản phẩm  -->
 	</div>
-</section> 
+</section>
 
 @section scripts {
 	<script>

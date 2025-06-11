@@ -1,7 +1,7 @@
 ﻿using Dapper;
-using Microsoft.Data.Sqlite;
 using SV21T1020589CLIENT.DataLayers.SQLite;
 using SV21T1020589CLIENT.DomainModels;
+using Microsoft.Data.Sqlite;
 
 namespace SV21T1020589CLIENT.DataLayers.SQLite
 {
@@ -13,11 +13,14 @@ namespace SV21T1020589CLIENT.DataLayers.SQLite
 
 		public List<Category> List()
 		{
+			List<Category> data = new List<Category>();
 			using (var connection = OpenConnection())
 			{
-				var sql = "SELECT * FROM Categories ORDER BY CategoryName";
-				return connection.Query<Category>(sql).ToList();
+				var sql = @"select * from Categories";
+				data = connection.Query<Category>(sql: sql, commandType: System.Data.CommandType.Text).ToList();
+				connection.Close();
 			}
+			return data;
 		}
 	}
 }

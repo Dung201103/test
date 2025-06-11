@@ -10,7 +10,7 @@
             <div class="card h-100 shadow-sm position-relative">
                 <a href="~/Product/Detail/@item.ProductID">
                     <div class="col product-image">
-                        <img src="@((item.Photo == "") ? Url.Content("http://localhost:24873/images/products/macbook.png") : Url.Content("http://localhost:24873/images/products/" + @item.Photo))"
+                        <img src="https://product.hstatic.net/200000848159/product/e242f073-fd57-4c1d-a569-c63feece91eb_6956f4426f26435e82b4ede1821a53e5_master.jpg"
                              class="card-img-top" alt="@item.ProductName">
                     </div>
                     <div class="card-body">
@@ -25,23 +25,7 @@
 </div>
 
 
-@* <div class="row row-cols-1 row-cols-md-4 g-4">
-    @foreach (var item in Model.Data)
-    {
-        <div class="col">
-            <div class="card h-100 shadow-sm position-relative">
-                <a href="~/Product/Detail/@item.ProductID">
-                    <img src=@((item.Photo == "")? Url.Content("http://localhost:24873/images/products/macbook.png"): Url.Content("http://localhost:24873/images/products/"+@item.Photo)) class="card-img-top" alt="@item.ProductName">
-                    <div class="card-body">
-                        <h5 class="card-title">@item.ProductName</h5>
-                        <p class="card-text">Giá: @string.Format("{0:N0}", @item.Price) VND</p>
-                        <a href="~/Product/Detail/@item.ProductID" class="btn btn-secondary buy-btn">Mua Ngay</a>
-                    </div>
-                </a>
-            </div>
-        </div>
-    }
-</div> *@
+
 
 
 <div class="d-flex justify-content-center mt-4">

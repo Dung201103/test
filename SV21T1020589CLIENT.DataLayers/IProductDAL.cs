@@ -16,8 +16,7 @@ namespace SV21T1020589CLIENT.DataLayers
         /// <param name="maxPrice"> Mức giá lớn nhất trong khoảng giá cần tìm (0 nếu không hạn chế mức giá tìm kiếm lớn nhất)</param>
         /// <returns></returns>
         List<Product> List(int page =1 , int pageSize = 0 , 
-           string searchValue ="" , int categoryID = 0 , int supplierID = 0 ,
-           decimal minPrice = 0 , decimal maxPrice = 0);
+           string searchValue ="" , int categoryID = 0 , int supplierID = 0 );
 
         /// <summary>
         /// Đếm số lượng mặt hàng tìm kiếm được
@@ -28,7 +27,7 @@ namespace SV21T1020589CLIENT.DataLayers
         /// <param name="minPrice"> Mức giá nhỏ nhất trong khoảng giá cần tìm </param>
         /// <param name="maxPrice"> Mức giá lớn nhất trong khoảng giá cần tìm (0 nếu không hạn chế mức giá tìm kiếm lớn nhất) </param>
         /// <returns></returns>
-        int Count(string searchValue = "", int categoryID = 0, int supplierID = 0, decimal minPrice = 0, decimal maxPrice = 0);
+        int Count(string searchValue = "", int categoryID = 0, int supplierID = 0);
        
         /// <summary>
         /// Lấy thông tin mặt hàng theo mã hàng

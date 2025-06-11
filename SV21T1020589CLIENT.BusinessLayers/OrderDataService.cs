@@ -14,9 +14,8 @@ namespace SV21T1020589CLIENT.BusinessLayers
         /// </summary>
         static OrderDataService()
         {
-			string connectionString = @"Data Source=D:\Lite.db;";
-			orderDB = new OrderDAL(connectionString);
-        }
+			orderDB = new OrderDAL(Configuration.ConnectionString);
+		}
 
         /// <summary>
         /// Tìm kiếm và lấy danh sách đơn hàng dưới dạng phân trang

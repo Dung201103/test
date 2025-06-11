@@ -15,9 +15,9 @@ namespace SV21T1020589CLIENT.BusinessLayers
 
 		static CustomerDataService()
 		{
-			string connectionString = @"Data Source=D:\Lite.db;";
+			string connectionString = Configuration.ConnectionString;
 			customerDB = new DataLayers.SQLite.CustomerAccountDAL(connectionString);
-        }
+		}
         
 		/// <summary>
 		/// Xác minh 

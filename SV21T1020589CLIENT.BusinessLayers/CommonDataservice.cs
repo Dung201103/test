@@ -15,7 +15,7 @@ namespace SV21T1020589CLIENT.BusinessLayers
         static CommonDataService()
         {
 
-			string connectionString = @"Data Source=D:\Lite.db;";
+			string connectionString = Configuration.ConnectionString;
 			provinceDB = new ProvinceDAL(connectionString);
             supplierDB = new SupplierDAL(connectionString);
             shipperDB = new ShipperDAL(connectionString);
