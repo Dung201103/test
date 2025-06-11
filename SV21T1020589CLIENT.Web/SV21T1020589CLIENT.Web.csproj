@@ -1808,6 +1808,9 @@
     <Content Include="wwwroot\themes\bower_components\PACE\themes\yellow\pace-theme-minimal.css" />
     <Content Include="wwwroot\themes\bower_components\select2\dist\css\select2.css" />
     <Content Include="wwwroot\themes\bower_components\select2\dist\css\select2.min.css" />
+    <Content Include="Lite.db">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
   </ItemGroup>
 
   <ItemGroup>
@@ -1824,7 +1827,7 @@
   </ItemGroup>
 
   <ItemGroup>
-  <None Update="LiteCommerce.db">
+  <None Update="Lite.db">
     <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
   </None>
     <None Include="wwwroot\themes\bower_components\bootstrap-colorpicker\dist\css\bootstrap-colorpicker.css.map" />
